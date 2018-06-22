@@ -1,0 +1,7 @@
+{
+  "name": "madpoker",
+  "short_name": "madpoker",
+  "description": "Poker done some way",
+  "start_url": "/",
+  "display": "standalone"
+}
